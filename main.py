@@ -1,6 +1,6 @@
 import requests
 
-domain_set=['raw.githubusercontent.com','github.githubassets.com','github.com','avatars.githubusercontent.com']
+domain_set=['raw.githubusercontent.com','github.githubassets.com','github.com','avatars.githubusercontent.com','github.global.ssl.fastly.net']
 hosts=[]
 
 for i in domain_set:
